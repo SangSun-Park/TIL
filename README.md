@@ -45,9 +45,10 @@
 8. PR을 아래 양식에 맞춰 내용을 작성합니다.
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
 
-```
+
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+|8.3|TIL DAY1 (git)|branch 관리|https://slowly-steadily.tistory.com/2|
+|8.6|TIL DAY2 (JAVA)|interface, 람다 표현식|https://slowly-steadily.tistory.com/3|
+|8.9|TIL DAY3 (SQL)|SQL문 로컬 변수, date format, if| https://slowly-steadily.tistory.com/7|
+
